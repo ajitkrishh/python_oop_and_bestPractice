@@ -1,0 +1,6 @@
+"phone",1200,5
+"bag",200,15
+"charger",500,50
+"cables",100,2
+"speaker",1000,10
+"headphone",800,12

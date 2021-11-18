@@ -1,0 +1,4 @@
+"panasonic v1",1240,10,"smartphone"
+"nokia v10",840,12,"basicphone"
+"mi zeno",1340,10,"smartphone"
+"telesonic v1",1200,5,"teleaphone"
