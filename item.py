@@ -1,5 +1,3 @@
-
-
 class Item:
     discount = 0.2 # 20% off
     all = []
